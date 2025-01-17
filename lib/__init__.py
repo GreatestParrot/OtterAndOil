@@ -3,7 +3,7 @@
 
 from .gnc import *
 from .mainLoop import *
+from .simultaneousLoop import *
 from .plotTimeSeries import *
 from .guidance import *
-from .control import *
 from .models import *
